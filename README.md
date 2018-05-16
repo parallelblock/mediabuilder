@@ -6,7 +6,7 @@ repository](https://github.com/parallelblock/media). Feel free to inspect the
 Dockerfile for what the image exactly does.
 
 This image is available on docker hub under this repo:
-[parallelblock/mediabuilder](https://hub.docker.com/parallelblock/mediabuilder)
+[parallelblock/mediabuilder](https://hub.docker.com/r/parallelblock/mediabuilder)
 
 ## License
 
